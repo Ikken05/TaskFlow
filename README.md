@@ -2,6 +2,8 @@
 
 A full-stack user authentication and management system with meaningful names for each feature.
 
+📋 **[Project Description & Objectives](https://www.notion.so/TaskFlow-Project-Description-Objectives-26fe34632bc781468f6be5b286537c92?source=copy_link)**
+
 ## Project Structure
 
 ```
